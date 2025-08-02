@@ -1,0 +1,17 @@
+{
+  "name": "russian-translator-content",
+  "version": "1.0.0",
+  "description": "Content management for Russian Translation Services",
+  "main": "index.js",
+  "files": [
+    "data/",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/russian-translator-content.git"
+  },
+  "keywords": ["content", "translations", "russian", "i18n"],
+  "author": "Prabhat Kumar",
+  "license": "MIT"
+}
